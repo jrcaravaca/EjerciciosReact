@@ -36,7 +36,7 @@ export const Ejercicio8 = () => {
             incluir carácteres ni saltos de linea
           </li>
         </ul>
-        <a href="../index.html">Volver atrás</a>
+        <a href="./">Volver atrás</a>
         <hr />
       </header>
       <main>

@@ -38,7 +38,7 @@ export const Ejercicio3 = () => {
             Añade un botón al lado de cada elemento para eliminarlo de la lista
           </li>
         </ul>
-        <a href="../index.html">Volver atrás</a>
+        <a href="./">Volver atrás</a>
         <hr></hr>
       </header>
       <main>

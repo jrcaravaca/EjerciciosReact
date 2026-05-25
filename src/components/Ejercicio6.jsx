@@ -51,7 +51,7 @@ useEffect(() => {
           <li>"Pausar" detiende el conteo pero mantiene el tiempo actual</li>
           <li>"Reiniciar" pone el temporizador a 0</li>
         </ul>
-        <a href="../index.html">Volver atrás</a>
+        <a href="./">Volver atrás</a>
         <hr></hr>
       </header>
       <main>

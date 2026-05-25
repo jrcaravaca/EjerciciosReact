@@ -51,7 +51,7 @@ export const Ejercicio4 = () => {
           van dejando de aparecer elementos de la lista (pero realmente se puede
           hacer la prueba con cualquiera)
         </p>
-        <a href="../index.html">Volver atrás</a>
+        <a href="./">Volver atrás</a>
         <hr></hr>
       </header>
       <main>

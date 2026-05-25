@@ -81,7 +81,7 @@ const [taskList, setTaskList] = useState(() => {
             actualizar localStorage
           </li>
         </ul>
-        <a href="../index.html">Volver atrás</a>
+        <a href="./">Volver atrás</a>
         <hr />
       </header>
       <main>
@@ -97,7 +97,7 @@ const [taskList, setTaskList] = useState(() => {
             return (
               <li key={index} style={{
                 textDecoration: task.completed ? "line-through" : "none",
-                color: task.completed ? "gray" : "white"
+                color: task.completed ? "gray" : "black"
               }}>
                 {task.text} <input type="checkbox" checked={task.completed} onChange={() => {toggleTask(index)}} />{" "}
                 <button onClick={() => {handleDelete(index)}}>Borrar</button>

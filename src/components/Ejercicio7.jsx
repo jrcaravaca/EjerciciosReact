@@ -59,7 +59,7 @@ export const Ejercicio7 = () => {
             que 4
           </li>
         </ul>
-        <a href="../index.html">Volver atrás</a>
+        <a href="./">Volver atrás</a>
         <hr />
       </header>
       <main>

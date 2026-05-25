@@ -48,7 +48,7 @@ export const Ejercicio5 = () => {
             por cero o entradas vacías)
           </li>
         </ul>
-        <a href="../index.html">Volver atrás</a>
+        <a href="./">Volver atrás</a>
         <hr></hr>
       </header>
       <main>
